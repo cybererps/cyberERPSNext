@@ -83,4 +83,4 @@ By contributing to ERPNext, you agree that your contributions will be licensed u
 
 ## Logo and Trademark Policy
 
-Please read our [Logo and Trademark Policy](TRADEMARK_POLICY.md).
+Please read our [Logo and Trademark Policy](TRADEMARK_POLICY.md)
